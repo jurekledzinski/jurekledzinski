@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @jurekledzinski
 - 👀 I’m interested in React.js, Next.js, Node.js, MongoDB, HTML, CSS/SCSS, Javascript
 - 🌱 I’m currently learning typescript
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking for first job as frontend developer
 - 📫 How to reach me jurekledzinski@yahoo.pl
 
 <!---
