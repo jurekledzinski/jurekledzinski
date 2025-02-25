@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @jurekledzinski
-- 👀 I’m interested in React.js, Next.js,Vue.js, Node.js, MongoDB, HTML, CSS/SCSS, Javascript
-- 💞️ I’m looking for first job as frontend developer
+- ✨ I have 2 years experience
+- 👀 I’m interested in React.js, Javascript, Typescript, Next.js, Node.js, MongoDB, HTML, CSS/SCSS, 
+- 💞️ Currently looking for new job opportunity as frontend developer
 - 📫 How to reach me jurekledzinski@yahoo.pl
 
 <!---
